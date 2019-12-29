@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'placeholder_widget.dart';
 import 'new_page.dart';
 import 'pesanan.dart';
 import 'inbox.dart';
