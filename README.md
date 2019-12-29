@@ -1,6 +1,6 @@
 # bottom_bars
 
-A new Flutter application.
+this project is just how bottom bars in flutter work and i've add some UI each bars
 
 ## Getting Started
 
